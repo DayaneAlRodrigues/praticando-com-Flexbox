@@ -1,2 +1,6 @@
-# praticando-com-Flexbox
-Projeto desenvolvido durante o curso de Flexbox da Digital Innovation One
+# Primeiro projeto com Flexbox
+Landing page desenvolvida durante o curso de Flexbox da Digital Innovation One.
+
+
+
+
